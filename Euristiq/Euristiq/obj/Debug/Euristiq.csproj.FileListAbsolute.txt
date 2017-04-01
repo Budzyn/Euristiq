@@ -1,0 +1,6 @@
+E:\My last study\.Net MVC\Euristiq\Euristiq\bin\Debug\Euristiq.exe.config
+E:\My last study\.Net MVC\Euristiq\Euristiq\bin\Debug\Euristiq.exe
+E:\My last study\.Net MVC\Euristiq\Euristiq\bin\Debug\Euristiq.pdb
+E:\My last study\.Net MVC\Euristiq\Euristiq\obj\Debug\Euristiq.csprojResolveAssemblyReference.cache
+E:\My last study\.Net MVC\Euristiq\Euristiq\obj\Debug\Euristiq.exe
+E:\My last study\.Net MVC\Euristiq\Euristiq\obj\Debug\Euristiq.pdb
